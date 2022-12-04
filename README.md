@@ -15,7 +15,7 @@ A set of rules that every multiplayer game can adhere to.
 
 ## Rules
 
-> Rules are ranked by most vial first
+> Rules are ranked by most vital first
 
 
 ### Rule 1: Purchases must not grant competitive advantages, even small ones. 
